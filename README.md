@@ -15,14 +15,14 @@ A Publisher/Subscriber system is a form of asynchronous service-to-service commu
 
 # Broker
 
-- $ python3 broker.py -s s_port -p p_port
+`$ python3 broker.py -s s_port -p p_port
 
-- For example: $ python3 broker.py -s 9090 -p 9000
+For example: $ python3 broker.py -s 9090 -p 9000
 
-- positional arguments:
+positional arguments:
 
     -s               Indicates the port of this specific broker where subscribers will connect.
-    -p               Indicates the port of this specific broker where publishers will connect.
+    -p               Indicates the port of this specific broker where publishers will connect.`
     
 
 # Publisher
