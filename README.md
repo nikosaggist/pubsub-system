@@ -39,6 +39,7 @@ positional arguments:
     -p               Indicates the port of the broker.
 
 optional arguments:
+
     -f               Indicates a file name where there are commands that the publisher will execute once started and connected 
     
 # Subscriber
@@ -55,4 +56,5 @@ positional arguments:
     -p               Indicates the port of the broker.
 
 optional arguments:
+
     -f               Indicates a file name where there are commands that the subscriber will execute once started and connected to the broker
