@@ -14,7 +14,7 @@ A Publisher/Subscriber system is a form of asynchronous service-to-service commu
 # User instructions
 
 1) Firstly create the respective files for the publisher and subscriber with the commands that will be executed.
-2) Run firstly the broker.py file and then the other two files (publisher.py and subscriber.py).
+2) Run firstly the broker.py file and then the other two files (publisher.py and subscriber.py) with the way that is diplayed below.
 
 # Broker
 
